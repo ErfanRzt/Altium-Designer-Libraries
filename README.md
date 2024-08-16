@@ -1,1 +1,1 @@
-# Altium-Designer-Libraries
+# Custom Altium Designer Library Packages
